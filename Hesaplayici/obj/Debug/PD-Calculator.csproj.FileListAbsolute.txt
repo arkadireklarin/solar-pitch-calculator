@@ -1,0 +1,11 @@
+C:\Users\İncekVilla\source\repos\Hesaplayici\Hesaplayici\bin\Debug\Hesaplayici.exe.config
+C:\Users\İncekVilla\source\repos\Hesaplayici\Hesaplayici\bin\Debug\Hesaplayici.exe
+C:\Users\İncekVilla\source\repos\Hesaplayici\Hesaplayici\bin\Debug\Hesaplayici.pdb
+C:\Users\İncekVilla\source\repos\Hesaplayici\Hesaplayici\obj\Debug\PD-Calculator.csproj.AssemblyReference.cache
+C:\Users\İncekVilla\source\repos\Hesaplayici\Hesaplayici\obj\Debug\Hesaplayici.exe.config
+C:\Users\İncekVilla\source\repos\Hesaplayici\Hesaplayici\obj\Debug\Hesaplayici.Form1.resources
+C:\Users\İncekVilla\source\repos\Hesaplayici\Hesaplayici\obj\Debug\Hesaplayici.Properties.Resources.resources
+C:\Users\İncekVilla\source\repos\Hesaplayici\Hesaplayici\obj\Debug\PD-Calculator.csproj.GenerateResource.cache
+C:\Users\İncekVilla\source\repos\Hesaplayici\Hesaplayici\obj\Debug\PD-Calculator.csproj.CoreCompileInputs.cache
+C:\Users\İncekVilla\source\repos\Hesaplayici\Hesaplayici\obj\Debug\Hesaplayici.exe
+C:\Users\İncekVilla\source\repos\Hesaplayici\Hesaplayici\obj\Debug\Hesaplayici.pdb
